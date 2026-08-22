@@ -76,20 +76,6 @@
   <img src="https://img.shields.io/badge/ModelSim-000000?style=for-the-badge">
 </p>
 
----
-
-## 🤖 Embedded Systems
-
-Interested in:
-
-* Arduino
-* ESP32
-* Raspberry Pi
-* Sensors & Actuators
-* Servo Motor Control
-* Embedded Programming
-* Robotics
-* Hardware–Software Integration
 
 ---
 
@@ -151,11 +137,6 @@ Software Development
     ├── Express
     └── Databases
 
-Embedded Systems
-    ├── Arduino
-    ├── ESP32
-    ├── Sensors
-    └── Robotics
 ```
 
 ---

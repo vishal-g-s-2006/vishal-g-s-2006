@@ -13,13 +13,13 @@
 
 ## 🎓 About Me
 
-* 🎓 Electronics and Communication Engineering (ECE) Student
-* 🏫 Government College of Engineering, Erode
-* 📍 Tamil Nadu, India
-* 🔭 Interested in **VLSI, Digital Design and Software Development**
-* 💻 Exploring **Full Stack Development**
-* ⚡ Interested in combining **electronics and software**
-* 🌱 Always learning, experimenting and building
+- 🎓 Electronics and Communication Engineering (ECE) Student
+- 🏫 Government College of Engineering, Erode
+- 📍 Tamil Nadu, India
+- 🔭 Interested in **VLSI, Digital Design and Software Development**
+- 💻 Exploring **Full Stack Development**
+- ⚡ Interested in combining **electronics and software**
+- 🌱 Always learning, experimenting and building
 
 ---
 
@@ -27,13 +27,13 @@
 
 ### 🌐 Web Development
 
-* HTML
-* CSS
-* JavaScript
-* Node.js
-* Express
-* MySQL / Database Fundamentals
-* Git & GitHub
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express
+- MySQL / Database Fundamentals
+- Git & GitHub
 
 ### 👨‍💻 Programming Languages
 
@@ -49,13 +49,13 @@
 
 ### Digital Design
 
-* Combinational Circuits
-* Sequential Circuits
-* Latches & Flip-Flops
-* Digital Logic Design
-* RTL Design Fundamentals
-* FPGA / ASIC Design Concepts
-* Synthesis Fundamentals
+- Combinational Circuits
+- Sequential Circuits
+- Latches & Flip-Flops
+- Digital Logic Design
+- RTL Design Fundamentals
+- FPGA / ASIC Design Concepts
+- Synthesis Fundamentals
 
 ### HDL
 
@@ -74,10 +74,10 @@ A project developed to automate the management counselling process.
 
 **Focus areas:**
 
-* Process Automation
-* Web Application Development
-* Data Management
-* User-Friendly Workflow
+- Process Automation
+- Web Application Development
+- Data Management
+- User-Friendly Workflow
 
 🏆 **First Prize — Smart Campus Hackathon**
 
@@ -85,10 +85,30 @@ A project developed to automate the management counselling process.
 
 ## 🏆 Achievements
 
-* 🥇 First Prize — Smart Campus Hackathon
-* 📜 NPTEL — Problem Solving Through C Programming
-* 📜 Infosys Springboard — Introduction to Python Programming
-* 📜 Infosys Springboard — Creative Thinking
+- 🥇 First Prize — Smart Campus Hackathon
+- 📜 NPTEL — Problem Solving Through C Programming
+- 📜 Infosys Springboard — Introduction to Python Programming
+- 📜 Infosys Springboard — Creative Thinking
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=vishal-g-s-2006&theme=tokyonight&hide_border=false" alt="GitHub Streak">
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishal-g-s-2006&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-g-s-2006&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages">
+</p>
 
 ---
 
@@ -108,23 +128,3 @@ Software Development
     ├── Node.js
     ├── Express
     └── Databases
-```
-
----
-
-## 📫 Let's Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/vishal-g-s-5b1799322">
-    <img src="https://img.shields.io/badge/LinkedIn-Vishal%20G%20S-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:vishalsaran2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-vishalsaran2006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>⚡ Learn • Build • Experiment • Grow</i>
-</p>

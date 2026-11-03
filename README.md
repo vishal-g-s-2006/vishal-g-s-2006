@@ -13,11 +13,11 @@
 
 ### ⚡ About Me
 
-I'm an **Electronics & Communication Engineering** undergrad at **Government College of Engineering, Erode**, focused on the intersection of front-end RTL design, FPGA prototyping, and ASIC physical flows.
+I'm an **Electronics & Communication Engineering** undergrad at **Government College of Engineering, Erode**, focused on the intersection of front-end RTL design, FPGA prototyping, and ASIC physical flows[cite: 1].
 
-- 🔬 **What I focus on:** Writing clean, synthesizeable Verilog, validating architectures through behavioral testbenches, and turning design ideas into working hardware bitstreams or clean silicon layouts.
-- 🛠️ **Hands-on with:** Xilinx Vivado, Digilent Nexys A7-100T (Artix-7), OpenLane, and Sky130A PDK.
-- 🎯 **Current Goal:** Sharpening digital IC architectures, timing closure, and seeking an **RTL / VLSI Design Intern** role.
+- 🔬 **What I focus on:** Writing clean, synthesizeable Verilog, validating architectures through behavioral testbenches, and turning design ideas into working hardware bitstreams or clean silicon layouts[cite: 1].
+- 🛠️ **Hands-on with:** Xilinx Vivado, Digilent Nexys A7-100T (Artix-7), OpenLane, and Sky130A PDK[cite: 1].
+- 🎯 **Current Goal:** Sharpening digital IC architectures, timing closure, and seeking an **RTL / VLSI Design Intern** role[cite: 1].
 
 ---
 
@@ -44,46 +44,30 @@ I'm an **Electronics & Communication Engineering** undergrad at **Government Col
 
 ### 🔬 Core Competencies
 
-- **RTL & Digital Design:** FSMs (Mealy/Moore), Clock Dividers, Shift Registers, Synchronous Counters, Multiplexers, Adders, and Timing Diagrams.
-- **Physical Design & Synthesis:** Logic Synthesis (Yosys), Floorplanning, Power Distribution Network (PDN), Standard-Cell Placement & Routing, Static Timing Analysis (STA), DRC/LVS via Magic VLSI.
+- **RTL & Digital Design:** FSMs (Mealy/Moore), Clock Dividers, Shift Registers, Synchronous Counters, Multiplexers, Adders, and Timing Diagrams[cite: 1].
+- **Physical Design & Synthesis:** Logic Synthesis (Yosys), Floorplanning, Power Distribution Network (PDN), Standard-Cell Placement & Routing, Static Timing Analysis (STA), DRC/LVS via Magic VLSI[cite: 1].
 
 ---
 
 ### 🚀 Highlighted Hardware & RTL Projects
 
 #### 📦 [Parameterized Synchronous FIFO Buffer & Testbench](https://github.com/vishal-g-s-2006)
-- Designed a parameterizable circular FIFO queue in **Verilog HDL** supporting arbitrary word widths and depths.
-- Built pointer tracking logic with status flags (`full`, `empty`, `almost-full`).
-- Validated functionality using a behavioral testbench simulating random read/write latency and verifying data integrity under concurrent transactions.
+- Designed a parameterizable circular FIFO queue in **Verilog HDL** supporting arbitrary word widths and depths[cite: 1].
+- Built pointer tracking logic with status flags (`full`, `empty`, `almost-full`)[cite: 1].
+- Validated functionality using a behavioral testbench simulating random read/write latency and verifying data integrity under concurrent transactions[cite: 1].
 
 #### ⏱️ [FPGA Digital Clock System — Digilent Nexys A7-100T](https://github.com/vishal-g-s-2006)
-- Implemented and deployed a real-time 24-hour digital clock on an **Artix-7 FPGA**.
-- Designed a modular prescaler reducing the onboard 100 MHz oscillator to a precise 1 Hz base clock alongside a multiplexed refresh rate for seven-segment displays.
-- Handled XDC hardware pin constraints, synthesis, and bitstream programming via Vivado.
+- Implemented and deployed a real-time 24-hour digital clock on an **Artix-7 FPGA**[cite: 1].
+- Designed a modular prescaler reducing the onboard 100 MHz oscillator to a precise 1 Hz base clock alongside a multiplexed refresh rate for seven-segment displays[cite: 1].
+- Handled XDC hardware pin constraints, synthesis, and bitstream programming via Vivado[cite: 1].
 
 #### 🪓 [ASIC Standard Cell RTL-to-GDSII Flow — Sky130A](https://github.com/vishal-g-s-2006)
-- Ran an end-to-end open-source silicon flow from RTL Verilog down to DRC-clean GDSII layout using **OpenLane**.
-- Carried out automated placement, clock tree distribution, routing, and post-layout inspection using **Magic VLSI**.
+- Ran an end-to-end open-source silicon flow from RTL Verilog down to DRC-clean GDSII layout using **OpenLane**[cite: 1].
+- Carried out automated placement, clock tree distribution, routing, and post-layout inspection using **Magic VLSI**[cite: 1].
 
 ---
 
 ### 🏆 Hackathons & Recognition
 
-- 🥇 **1st Place — Smart Campus Hackathon (SCH'26):** Built an automated management counselling workflow with Team TITANX, recognized for system efficiency and usability.
-- ⚡ **Hardware Hackathon — Smart Grid Power Management:** Architected an FPGA-based power monitoring and intelligent load-shedding control system in Verilog HDL.
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vishal-g-s-2006&theme=tokyonight&hide_border=false" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishal-g-s-2006&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-g-s-2006&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages">
-</p>
+- 🥇 **1st Place — Smart Campus Hackathon (SCH'26):** Built an automated management counselling workflow with Team TITANX, recognized for system efficiency and usability[cite: 1].
+- ⚡ **Hardware Hackathon — Smart Grid Power Management:** Architected an FPGA-based power monitoring and intelligent load-shedding control system in Verilog HDL[cite: 1].
